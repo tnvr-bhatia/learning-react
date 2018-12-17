@@ -1,0 +1,21 @@
+.CardContent {
+  padding: 2px 8px;
+}
+
+.title {
+  font-weight: 500;
+  display: block;
+  padding: 5px 0;
+}
+
+.content {
+  font-weight: normal;
+  display: block;
+  padding: 5px 0;
+}
+
+.author {
+  font-weight: lighter;
+  display: block;
+  padding: 5px 0;
+}

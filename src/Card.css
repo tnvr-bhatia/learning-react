@@ -1,0 +1,16 @@
+.Card {
+  border: 1px Solid #ced4da;
+  min-width: 20vw;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+.nomargin {
+  margin: 0;
+}
+
+.nopadding {
+  padding: 0;
+}
